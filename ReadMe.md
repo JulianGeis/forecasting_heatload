@@ -1,6 +1,6 @@
 Project description:
 
-The task is to make a 72h forecast of the heat load for a distrcit heating network in Flensburg.
+The task is to make a 72h forecast of the heat load for a district heating network in Flensburg.
 
 Used model are:
 		1. Multi Layer Perceptron (MLP)
