@@ -9,5 +9,5 @@ Used model are:
 		4. Convolutional Neural Network (CNN) 
 		5. Seasonal AutoRegreessive Integrated Moving Average with eXogenous factor (SARIMAX)
 
-The scripts can be run within the Google Colaboratory Environment using the dataset that ist provides in this repository. Best to start with the MLP model as it contains the most detailed comments.
+The scripts can be run within the Google Colaboratory Environment using the dataset data_dummies_index for the neural network models and data_dummies for the SARIMAX model. Best to start with the MLP model as it contains the most detailed comments.
 
